@@ -1,7 +1,7 @@
 # CarrinhoDeCompraSpringBootJPA
 
 
-Carrinho de compras com utilizando "Mapeamento com associações usando JPA"
+Carrinho de compras utilizando "Mapeamento com associações usando JPA"
 
 NOTAS:
 
